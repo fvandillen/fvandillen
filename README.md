@@ -14,3 +14,11 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+I'm a Developer and Cloud Solution Architect at [4Dotnet](https://4dotnet.nl).
+
+Tech I like to work with:
+- .NET
+- Azure, specifically Container Apps.
+- Dapr
+- Aspire
