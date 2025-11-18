@@ -22,3 +22,6 @@ Tech I like to work with:
 - Azure, specifically Container Apps.
 - Dapr
 - Aspire
+
+## Badges
+[![An image of @fvandillen's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/fvandillen)](https://holopin.io/@fvandillen)
